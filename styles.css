@@ -3,7 +3,7 @@
 }
 body{
   background-color:#303030;
-  background-image: url(img/img2.jpg);
+  background-image: url(img2.jpg);
   background-blend-mode:overlay;
   background-size:cover;
   background-position: right;
@@ -86,7 +86,7 @@ body{
 text-align: center;
 background-color: #303030;
 color:#fff ;
-background-image: url(img/img1.jpg);
+background-image: url(img1.jpg);
 background-blend-mode: multiply;
 background-size: cover;
 padding: 10px;
