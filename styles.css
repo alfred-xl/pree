@@ -6,7 +6,6 @@ body{
   background-image: url(img2.jpg);
   background-blend-mode:overlay;
   background-size:cover;
-  background-position: right;
   color: white;
   font-family: "Source sans pro","sans-serif";
   font-size: 1rem;
