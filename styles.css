@@ -91,13 +91,6 @@ background-image: url(img1.jpg);
 background-blend-mode: multiply;
 background-size: cover;
 padding: 10px;
-width:100%;
-position:relative;
-left:50%;
-right:50%;
-margin-left:-50vw;
-margin-right:-50vw;
-
 }
 .title-mission{
   font-size: 2em;
