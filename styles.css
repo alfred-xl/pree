@@ -1,9 +1,4 @@
-*{
-  box-sizing: border-box;
-}
-html{
-  width:100%
-}
+
 body{
   background-color:#303030;
   background-image: url(img2.jpg);
