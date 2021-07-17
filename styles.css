@@ -21,7 +21,9 @@ body{
  line-height: 0;
  color: #087d7d;
 }
-
+.intro-school{
+  font-size:2rem;}
+    
 .mybtn{
   display:grid;
   grid-template-columns: repeat(4,auto);
