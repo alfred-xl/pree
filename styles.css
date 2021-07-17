@@ -31,7 +31,7 @@ body{
 @media (max-width:500px){
   .mybtn{
     display: block;
-    font-size: .5rem;
+    font-size: 2rem;
     padding: 10px;
   }
   .dropdown{
@@ -73,7 +73,7 @@ body{
 }
 @media (max-width:500px){
   .dropdown-content a{
-    font-size: 1.5em;
+    font-size: 2rem;
   }
 }
 
