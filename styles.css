@@ -91,7 +91,12 @@ background-image: url(img1.jpg);
 background-blend-mode: multiply;
 background-size: cover;
 padding: 10px;
- width:500px;
+
+}
+@media (max-width:500px){
+  .mission{
+    width:500px;
+  }
 }
 .title-mission{
   font-size: 2em;
@@ -111,8 +116,11 @@ padding: 10px;
   text-align: center;
   padding: 10px;
   margin-top: auto;
-  width:500px;
-  
+ }
+@media (max-width:500px){
+  .footer{
+    width:500px;
+  }
 }
 .mail-link{
   padding:0 15px ;
