@@ -24,7 +24,9 @@ body{
 
 @media (max-width:500px){
   .intro-school{
-    font-size:1rem;}
+    font-size:1rem;
+    padding:10px;
+  }
 }
     
 .mybtn{
