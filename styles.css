@@ -24,7 +24,7 @@ body{
 
 @media (max-width:500px){
   .intro-school{
-    font-size:1rem;
+    font-size:.8rem;
     padding:10px;
     text-align: center;
     justify-content:center;
