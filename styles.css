@@ -90,7 +90,7 @@ nav{
 }
 
 @media(max-width:500px){
-  .nav{
+  nav{
     padding:15px 7px;
   }
   .nav-links{
