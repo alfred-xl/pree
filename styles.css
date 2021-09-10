@@ -21,7 +21,7 @@ nav{
   align-items: center;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 15px;
+  padding: 15px 10px;
 }
 .nav-links{
   display: flex;
