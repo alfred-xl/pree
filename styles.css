@@ -94,7 +94,7 @@ nav{
 @media(max-width:500px){
   nav{
     padding:15px 7.5px;
-    width:500px;
+    
   }
   .nav-links{
     display: none;
